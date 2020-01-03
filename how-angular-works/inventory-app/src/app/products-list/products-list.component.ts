@@ -6,9 +6,10 @@ import {
 } from '@angular/core';
 import { Product } from '../product.model';
 
+
 /**
  * @ProductsList: A component for rendering all ProductRows and
- * storing the currently selected Product
+ * storing the currently selected Product 
  */
 @Component({
   selector: 'products-list',
